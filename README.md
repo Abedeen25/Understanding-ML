@@ -1,2 +1,2 @@
-# Understanding-ML
-This project is to familiarize oneself how the code structure of a basic machine learning operations work
+# Understanding-NN
+This project is to familiarize oneself how the code structure of a basic Neural Network operations work
